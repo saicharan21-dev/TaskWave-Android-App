@@ -11,6 +11,8 @@ Categories: Organize tasks by creating custom categories and keep your to-dos so
 Search and Filter: Quickly find specific tasks or filter tasks by date, priority, or category.
 Reminders: Receive reminders for upcoming tasks and deadlines.
 
+# Screenshot
+
 ![image](https://github.com/saicharan21-dev/ToDo-App/assets/75615707/08cb3ee2-19e8-4cc9-8c92-8408208dd085)
 
 
