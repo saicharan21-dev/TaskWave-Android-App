@@ -1,4 +1,4 @@
-# flutter_todo_app
+# Flutter_ToDo_App
 
 To-Do App is a feature-rich, cross-platform To-Do list application built with Flutter, offering a seamless experience for organizing tasks, setting priorities, and managing your daily activities. Whether you're a productivity enthusiast, a student, or a professional, this app is designed to simplify your life and help you stay organized.
 
