@@ -13,7 +13,4 @@ To-Do App is a feature-rich, cross-platform To-Do list application built with Fl
 
 # Screenshot
 
-
-
-
-=
+![image](https://github.com/saicharan21-dev/ToDo-App/assets/75615707/019188c0-c173-4896-86bb-cbd032cac296)
