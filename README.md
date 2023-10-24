@@ -12,7 +12,7 @@ To-Do App is a feature-rich, cross-platform To-Do list application built with Fl
 * Reminders: Receive reminders for upcoming tasks and deadlines.
 
 # Screenshot
-![image](https://github.com/saicharan21-dev/ToDo-App/assets/75615707/b5bce56e-f390-4d31-9a31-62c1daac28a1)
+
 
 
 
