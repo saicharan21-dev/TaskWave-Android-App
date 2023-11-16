@@ -9,7 +9,7 @@ To-Do App is a feature-rich, cross-platform To-Do list application built with Fl
 * Due Dates: Set due dates to track deadlines and schedules.
 * Categories: Organize tasks by creating custom categories and keep your to-dos sorted.
 * Search and Filter: Quickly find specific tasks or filter tasks by date, priority, or category.
-* Reminders: Receive reminders for upcoming tasks and deadlines
+* Reminders: Receive reminders for upcoming tasks and deadlines.
 
 # Screenshot
 
